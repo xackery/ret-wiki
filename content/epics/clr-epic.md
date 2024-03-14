@@ -10,7 +10,7 @@ bookHidden: true
 - Give Crown to [[Shmendrik Lavawalker]] in [[Lake Rathetear|Lake Rathe]] to spawn [[Natasha Whitewater]] nearby - receive [[Oil of Fennin Ro]] (Natasha Whitewater will despawn 5 minutes after spawning in Lake Rathetear unless engaged in combat and after turning in the Damaged Goblin Crown.)
 - Kill [[Shmendrik Lavawalker]] to spawn [[A Spirit of Flame]]
 - Loot [[Damaged Goblin Crown]] from [[A Spirit of Flame]] (Do not let Natasha Whitewater get the last hit or the corpse will disappear)
-- Give [[Damaged Goblin Crown]] to [[Natasha Whitewater]] -- receive [[Ornate Sea Shell]] (Natasha Whitewater will despawn 5 minutes after spawning in Lake Rathetear unless engaged in combat and after turning in the Damaged Goblin Crown.) 
+- Give [[Damaged Goblin Crown]] to [[Natasha Whitewater]] -- receive [[Ornate Sea Shell]] (Natasha Whitewater will despawn 5 minutes after spawning in Lake Rathetear unless engaged in combat and after turning in the Damaged Goblin Crown.)
 - Give [[Ornate Sea Shell]] to [[Omat Vastsea]] in [[Timorous Deep]] -- receive [[Coral Statue of Tarew]]
 - Give the [[Coral Statue of Tarew|Coral Statue]] to a [[A Seeker|Seeker]] in [[The Temple of Solusek Ro]] causing them to become [[A Plasmatic Priest]]
 - Kill [[A Plasmatic Priest]] in [[The Temple of Solusek Ro]] and loot [[Blood Soaked Plasmatic Priest Robe]]
@@ -27,8 +27,8 @@ bookHidden: true
 
 ### Orb of Vapor (Classic)
 
-- Give [[Message to Natasha]] (Received when spawning Ixiblat Fer) to [[Natasha Whitewater]] in [[Timorous Deep]] –- receive [[Shimmering Pearl*]] (This does not despawn Natasha)
-- Give [[Shimmering Pearl*|Shimmering Pearl]] to [[Zordak Ragefire]] in [[Nagafen's Lair]] -- causes him to repop as [[Zordakalicus Ragefire]] and attack you - kill and loot [[Heart of Zordak Ragefire]]
+- Give [[Message to Natasha]] (Received when spawning Ixiblat Fer) to [[Natasha Whitewater]] in [[Timorous Deep]] –- receive [[Shimmering Pearl]] (This does not despawn Natasha)
+- Give [[Shimmering Pearl]] to [[Zordak Ragefire]] in [[Nagafen's Lair]] -- causes him to repop as [[Zordakalicus Ragefire]] and attack you - kill and loot [[Heart of Zordak Ragefire]]
 - Give [[Heart of Zordak Ragefire|Heart]] to [[Omat Vastsea]] – receive Orb of Vapor (Do NOT do this until ready to turn all orbs into Jhassad, as this step spawns Jhassad for the final turn in)
 
 
