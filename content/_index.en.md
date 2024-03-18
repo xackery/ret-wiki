@@ -7,25 +7,25 @@ weight: 0
 
 Welcome to the Retribution Wiki
 
-[![Logo](images/logo.png)](https://heroesjourneyeq.com/)
+[![Logo](images/logo.png)](https://retributioneq.com/)
 
 
 > [!note]
 > This shit is still being worked on
 
-- [Discord](https://discord.gg/VZJBmC9ycw)
+
+- [Discord](https://discord.gg/ST429GN4rv)
 - [Getting Started](/new-players)
-- Magelo
+- [Magelo](https://retributioneq.com/magelo/)
 - Echoes of Memory
 - [Class Information](/classes)
-- Allaclone
-- ZEM Values
+- [Allaclone](https://retributioneq.com/allaclone/)
+- [ZEM Values](/zem)
 - [Progression Guide](/progression)
 - Bazaar
-- Recommended Leveling Paths
+- [Hunting Locations](/hunting)
 - [Epic Quests](/epics)
-- Character Mover
+- [Character Mover](https://retributioneq.com/magelo/index.php?page=charmove)
 - Recommended Builds
-- Fast Travel How To
+- [Fast Travel How To](/teleport)
 
-klahnlkajhbdlk
