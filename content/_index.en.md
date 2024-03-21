@@ -17,7 +17,6 @@ Welcome to the Retribution Wiki
 - [Discord](https://discord.gg/ST429GN4rv)
 - [Getting Started](/new-players)
 - [Magelo](https://retributioneq.com/magelo/)
-- Echoes of Memory
 - [Class Information](/classes)
 - [Allaclone](https://retributioneq.com/allaclone/)
 - [ZEM Values](/zem)
