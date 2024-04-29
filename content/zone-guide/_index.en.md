@@ -11,8 +11,16 @@ description: "Discover how to get from zone A to B."
 <div class="container">
   <form action="" id="searchForm">
     <h1>Search For Zone Links</h1>
-    <input type="checkbox" id="isBazaarPortalAllowed" name="isBazaarPortalAllowed" checked>
-    <label for="isBazaarPortalAllowed">Allow Bazaar Portal</label><br>
+    <input type="checkbox" id="areWizardPortsEnabled" name="areWizardPortsEnabled">
+    <label for="areWizardPortsEnabled">Wizard Ports</label>
+    <input type="checkbox" id="areDruidPortsEnabled" name="areDruidPortsEnabled">
+    <label for="areDruidPortsEnabled">Druid Ports</label>
+    <br>
+    <input type="checkbox" id="isGuildLobbyAAEnabled" name="isGuildLobbyAAEnabled">
+    <label for="isGuildLobbyAAEnabled">Guild Lobby AA</label>
+    <input type="checkbox" id="areGuildLobbyPortsEnabled" name="areGuildLobbyPortsEnabled">
+    <label for="areGuildLobbyPortsEnabled">Guild Lobby Ports</label>
+    <br>
 
     From:
     <input list="zones" name="from" id="from">

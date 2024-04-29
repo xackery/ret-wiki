@@ -9,11 +9,6 @@ description: Progression guide through the retribution.
 
 Progression is broken into expansions, with key mobs needing to be killed to unlock the next. An optional Collectors Quest, will yield the same results as the conventional flagging.
 
-
-{{<details title="List of Classic Zones">}}
-TODO: list every classic zone available, for quick search/unlock reference
-{{</details>}}
-
 ## Classic Bosses to kill for Kunark Unlock
 {{<details title="Lord Nagafen">}}
 Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
