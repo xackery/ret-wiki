@@ -1,56 +1,66 @@
+
+![New-Players](New-Players.png)
+
+# Getting Started with Retribution
+
+Welcome to Retribution, a unique personal progression PEQ server that allows you to relive the adventures and challenges of Everquest in new and exciting ways. Dive into the details below to get started on your journey!
+
 ---
-title: "Getting Started"
-summary: "New Players, start here!"
-weight: 1
+
+## What is Retribution?
+
+Retribution is an account-based, personal progression PEQ server that is not affiliated with Daybreak Games. It offers players a chance to relive forgotten memories of their Everquest conquests through a distinctive blend of rulesets, quests, and items.
+
 ---
-##  GETTING STARTED / FIRST STEPS
 
-  * **WHAT IS RETRIBUTION?**
+## Ruleset Overview
 
-  * Retribution is an account based, personal progression PEQ server, and is not, nor claims to be affiliated with Daybreak Games.
-  * Retribution allows players to relive forgotten memories of their Everquest conquests in nuanced ways through a unique mixture of rule-sets, quests, and items.
+- **Start in Classic EQ:** Progress through Gates of Discord by defeating raid bosses or collecting specific items from each expansion.
+- **Account-Based Progression:** You must actively participate to unlock each expansion for your account.
 
-  * **WHAT IS THE RULESET?**
+---
 
-  * All players start in Classic EQ and can progress through Gates of Discord by killing raid bosses or collecting certain items from each expansion. Progression is account based, meaning YOU have to participate to unlock each expansion for yourself.
+## Unique Features of Retribution
 
-  * **WHAT ELSE MAKES RETRIBUTION UNIQUE?**
+- **Pre-Selected Abilities:** Start with class-defining AA and the ability to teleport to the ORIGINAL bazaar.
+- **Enhanced Gear:** Access new, powerful versions of starting items. Gear can be found in Rose Colored (1.5x Stats) or Apocryphal (2x Stats + Bonuses) forms, reminiscent of past glories.
+- **Limited Multi-Boxing:** Players are limited to three boxing + 1 Bazaar mule, fostering a more balanced and competitive environment.
 
-  * Each player starts with pre-selected class defining AA, the ability to origin to the ORIGINAL bazaar, and access to new, powerful versions of their starting items.
-  * Enemy strength, exp, and loot tables are all as you remember them… for the most part. As you relive memories of camping your favorite pieces of gear and slaying your favorite enemies, you will also begin to remember how strong you really were as you find rare   versions of all wearable items are available. Like our memories, all gear can be found as Rose Colored (1.5x Stats) or Apocryphal (2x Stats + Bonuses).
-  * With the access to class defining AA and tens of thousands of new, incredibly strong, albeit familiar pieces of gear, players may be able to clear most content with a single group, and therefore will be limited to three boxing + 1 Bazaar mule.
+---
 
-  * **OTHER NOTABLE KEY FACTS ABOUT THE SERVER**
+## Additional Key Facts
 
-  * All wearable items have had their required and recommended levels removed.
-  * All items are tradable, with the strongest Apocryphal versions being attunable.
-  * AoC’s (instanced raid content) exist for every progression raid zone with a low 22hr lockout.
-  * Classic versions of many zones have been restored.
-  * Enemy and named spawn rate decreased to 10 minutes in almost all zones.
-  * RoF Out of Combat Regen
-  * OOC and AUC chat feed our Discord server, allowing for players to chat with their in game friends while offline.
-  * Level caps match retail OTHER THAN classic being capped at 51 instead of 50 so you can grind AA while farming gear.
-  * All AA through The Buried Sea are live and attainable beginning at level 51.
-  * Big bags!
+- **No Level Requirements:** Wearable items do not have required or recommended levels.
+- **Trade and Attune:** All items are tradable; Apocryphal versions are attunable.
+- **Reduced Lockouts:** Instanced raid content (AoCs) is available for every progression raid zone with a low 22-hour lockout.
+- **Restored Classic Zones:** Experience the classic versions of many favorite zones.
+- **Faster Spawns:** Enemy and named spawn rates are decreased to 10 minutes in almost all zones.
+- **Enhanced Regeneration:** Benefit from RoF Out of Combat Regen.
+- **Integrated Chat:** OOC and AUC chat feed into our Discord server, connecting you with friends even when offline.
+- **Special Level Caps:** Level caps are adjusted to allow AA grinding; Classic is capped at 51 instead of 50.
+- **Accessible AA:** All AA through The Buried Sea are live and attainable from level 51.
+- **Big Bags:** Carry more with larger bag sizes!
 
-## INSTALLATION INSTRUCTIONS
+---
 
-To start Retribution:
+## Installation Instructions
 
+Ready to embark on your Retribution adventure? Follow these steps to get set up:
 
-  * You will first need an [EQ Emulator account](http://www.eqemulator.org/)
+1. **Create an EQ Emulator Account:** Start by creating an account on [EQ Emulator](http://www.eqemulator.org/).
+2. **Login Server Account:** Then, [create a login server account](http://www.eqemulator.org/account/?CreateLS).
+3. **Download Retribution Patcher:** Download the Retribution patcher.zip from [here](https://retributioneq.com/retributioneq.zip). Make sure to mark the file as safe if prompted by Windows.
+4. **Install the Game:**
+    - Right-click the zipped download, go to properties, and check "Unblock" in the lower right. Then, extract the files to your preferred installation directory. Avoid running the patcher in the same folder as another PEQ server install.
+    - Find and run `retributioneq.exe`. This is the file you will use to patch and play the game.
+5. **Patch and Play:**
+    - Click "Patch" if it appears red. This process may take some time.
+    - Click "Play" once the patch is complete or if the patch button is grey and states "Complete! Press Play to begin".
 
-  * Once that is complete, [create a login server account](http://www.eqemulator.org/account/?CreateLS)
+Embark on your adventure and enjoy the unique experience that Retribution has to offer!
 
-  * If you haven't already, [Download the Retribution patcher.zip from](https://retributioneq.com/retributioneq.zip) (you may need to click on the file and tell Windows it is safe by clicking the arrow on the download and selecting "Keep")
+---
 
-  * Right click the zipped download, go to properties, and check Unblock in the lower right. Then click OK.  Then extract the files to wherever you want EQ to be installed. Do not run the patcher in the same folder as another PEQ server install unless you are done playing on that server.
-
-  * After extraction, find and run retributioneq.exe. This is the file you will run to patch and play.
-
-  * Click "Patch" if it is Red (THIS MAY TAKE SOME TIME)
-
-  * Click "Play" once the patch has finished or if patch is Grey (it will say Complete! Press Play to begin).
 
 
 
