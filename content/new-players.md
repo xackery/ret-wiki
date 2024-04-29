@@ -3,10 +3,6 @@ title: "Getting Started"
 summary: "New Players, start here!"
 weight: 1
 ---
-
-**Welcome to Retribution!**
-
-[![Main Site](https://retributioneq.com/)](/content/logo.png)
 ##  GETTING STARTED / FIRST STEPS
 
   * **WHAT IS RETRIBUTION?**
@@ -20,7 +16,6 @@ weight: 1
 
   * **WHAT ELSE MAKES RETRIBUTION UNIQUE?**
 
-  * The Summoner's SynchroSatchel will work like your pet's inventory. Anything you put in there will be utilized by your pet (Armor/Weapons).  In can also be stored in the bank instead of on your character
   * Each player starts with pre-selected class defining AA, the ability to origin to the ORIGINAL bazaar, and access to new, powerful versions of their starting items.
   * Enemy strength, exp, and loot tables are all as you remember them… for the most part. As you relive memories of camping your favorite pieces of gear and slaying your favorite enemies, you will also begin to remember how strong you really were as you find rare   versions of all wearable items are available. Like our memories, all gear can be found as Rose Colored (1.5x Stats) or Apocryphal (2x Stats + Bonuses).
   * With the access to class defining AA and tens of thousands of new, incredibly strong, albeit familiar pieces of gear, players may be able to clear most content with a single group, and therefore will be limited to three boxing + 1 Bazaar mule.
@@ -37,14 +32,6 @@ weight: 1
   * Level caps match retail OTHER THAN classic being capped at 51 instead of 50 so you can grind AA while farming gear.
   * All AA through The Buried Sea are live and attainable beginning at level 51.
   * Big bags!
-
-
-  * **WHAT IS THE RULESET?**
-
-  * The "Bazaar Portal" when used will return you to the bazaar. Make sure to put this on your hotbar right away.  When you zone out of the bazaar, it will return you to wherever you were when you casted it. Some situations exist where this is not the case (Druid/Wizard Ports and Tearel). If you end up in the bazaar with no valid return destination, you will port to your bind point instead.
-
-  * Once you have selected your characters, get out there and kill some monsters!
-
 
 ## INSTALLATION INSTRUCTIONS
 

@@ -15,148 +15,184 @@ Note this is only for the alpha and will change when the DB inject occurs.
 
 short|long|modifier
 ---|---|---
-befallen|Befallen|2.13
-crushbone|Crushbone|2.13
-guktop|The City of Guk|2.00
-highkeep|High Keep|2.00
-soldunga|Solusek's Eye|1.73
-unrest|The Estate of Unrest|1.73
-najena|Najena|1.73
-paw|The Lair of the Splitpaw|1.70
-akanon|Ak'Anon|1.33
-oggok|Oggok|1.33
-blackburrow|Blackburrow|1.33
-qrg|The Surefall Glade|1.33
-rivervale|Rivervale|1.33
-runnyeye|The Liberated Citadel of Runnyeye|1.33
-erudnext|Erudin|1.33
-erudnint|The Erudin Palace|1.33
-felwithea|Northern Felwithe|1.33
-felwitheb|Southern Felwithe|1.33
-freportn|North Freeport|1.33
-grobb|Grobb|1.33
-halas|Halas|1.33
-hole|The Hole|1.33
-kaladima|South Kaladim|1.33
-kaladimb|North Kaladim|1.33
-kedge|Kedge Keep|1.33
-neriaka|Neriak - Foreign Quarter|1.33
-neriakb|Neriak - Commons|1.33
-neriakc|Neriak - 3rd Gate|1.33
-permafrost|The Permafrost Caverns|1.20
-kerraridge|Kerra Isle|1.20
-mistmoore|The Castle of Mistmoore|1.20
-airplane|The Plane of Sky|1.13
-oot|Ocean of Tears|1.13
-cazicthule|Accursed Temple of CazicThule|1.13
-fearplane|The Plane of Fear|1.13
-hateplaneb|The Plane of Hate|1.13
-soldungb|Nagafen's Lair|1.06
-gukbottom|The Ruins of Old Guk|1.06
-highpass|Highpass Hold|1.06
-nro|Northern Desert of Ro|1.00
-oasis|Oasis of Marr|1.00
-arena|The Arena|1.00
-paineel|Paineel|1.00
-beholder|Gorge of King Xorbb|1.00
-butcher|Butcherblock Mountains|1.00
-cauldron|Dagnor's Cauldron|1.00
-qcat|The Qeynos Aqueduct System|1.00
-qey2hh1|The Western Plains of Karana|1.00
-qeynos|South Qeynos|1.00
-qeynos2|North Qeynos|1.00
-qeytoqrg|The Qeynos Hills|1.00
-commons|West Commonlands|1.00
-rathemtn|The Rathe Mountains|1.00
-cshome|Sunset Home|1.00
-shadowrest|Shadowrest|1.00
-eastkarana|Eastern Plains of Karana|1.00
-southkarana|The Southern Plains of Karana|1.00
-ecommons|East Commonlands|1.00
-sro|Southern Desert of Ro|1.00
-steamfont|Steamfont Mountains|1.00
-erudsxing|Erud's Crossing|1.00
-everfrost|Everfrost Peaks|1.00
-feerrott|The Feerrott|1.00
-freporte|East Freeport|1.00
-freportw|West Freeport|1.00
-gfaydark|The Greater Faydark|1.00
-tox|Toxxulia Forest|1.00
-tutoriala|The Mines of Gloomingdeep|1.00
-tutorialb|The Mines of Gloomingdeep|1.00
-hateplane|Plane of Hate|1.00
-innothule|Innothule Swamp|1.00
-jaggedpine|The Jaggedpine Forest|1.00
-kithicor|Kithicor Forest|1.00
-lakerathe|Lake Rathetear|1.00
-lavastorm|The Lavastorm Mountains|1.00
-lfaydark|The Lesser Faydark|1.00
-misty|Misty Thicket|1.00
-nedaria|Nedaria's Landing|1.00
-nektulos|The Nektulos Forest|1.00
-northkarana|The Northern Plains of Karana|1.00
-paw|Lair of the Splitpaw|0.90
-lavastorm|Lavastorm Mountains|0.75
-
-## Kunark
-
-short|long|modifier
----|---|---
-sebilis|The Ruins of Sebilis|2.50
-kurn|Kurn's Tower|2.00
-chardok|Chardok|1.50
-kaesora|Kaesora|1.46
-nurga|The Mines of Nurga|1.33
-cabeast|Cabilis East|1.33
-cabwest|Cabilis West|1.33
-droga|The Temple of Droga|1.33
-soltemple|The Temple of Solusek Ro|1.33
-charasis|The Howling Stones|1.13
-citymist|The City of Mist|1.13
-dalnir|The Crypt of Dalnir|1.13
-karnor|Karnor's Castle|1.13
-skyfire|The Skyfire Mountains|1.06
-overthere|The Overthere|1.00
-burningwood|The Burning Wood|1.00
-dreadlands|The Dreadlands|1.00
-emeraldjungle|The Emerald Jungle|1.00
-swampofnohope|The Swamp of No Hope|1.00
-fieldofbone|The Field of Bone|1.00
-firiona|Firiona Vie|1.00
-frontiermtns|Frontier Mountains|1.00
-timorous|Timorous Deep|1.00
-trakanon|Trakanon's Teeth|1.00
-veeshan|Veeshan's Peak|1.00
-warslikswood|The Warsliks Woods|1.00
-nurga|Mines of Nurga|0.95
-droga|Mines of Droga|0.95
-citymist|The City of Mist|0.85
-lakeofillomen|Lake of Ill Omen|0.80
-
-## Velious
-
-
-short|long|modifier
----|---|---
-warrens|The Warrens|2.00
-velketor|Velketor's Labyrinth|1.50
-necropolis|Dragon Necropolis|1.50
-templeveeshan|The Temple of Veeshan|1.33
-sleeper|The Sleeper's Tomb|1.20
-crystal|The Crystal Caverns|1.13
-sirens|Siren's Grotto|1.13
-skyshrine|Skyshrine|1.13
-frozenshadow|The Tower of Frozen Shadow|1.13
-growthplane|The Plane of Growth|1.13
-thurgadina|The City of Thurgadin|1.13
-thurgadinb|Icewell Keep|1.13
-kael|Kael Drakkel|1.13
-mischiefplane|The Plane of Mischief|1.13
-westwastes|The Western Wastes|1.06
-cobaltscar|Cobaltscar|1.00
-eastwastes|Eastern Wastes|1.00
-stonebrunt|The Stonebrunt Mountains|1.00
-greatdivide|The Great Divide|1.00
-wakening|The Wakening Land|1.00
-iceclad|The Iceclad Ocean|1.00
-sirens|Siren's Grotto|0.85
+airplane	Classic	2
+akanon	Classic	1.5
+arena	Classic	1.5
+befallen	Classic	1.75
+beholder	Classic	1.5
+blackburrow	Classic	2
+butcher	Classic	1.5
+cauldron	Classic	1.5
+cazicthule	Classic	2
+commons	Classic	1.5
+crushbone	Classic	1.75
+cshome	Classic	1.5
+eastkarana	Classic	1.5
+ecommons	Classic	1.5
+erudnext	Classic	1.5
+erudnint	Classic	1.5
+erudsxing	Classic	1.5
+everfrost	Classic	1.5
+fearplane	Classic	2
+feerrott	Classic	1.5
+felwithea	Classic	1.5
+felwitheb	Classic	1.5
+freporte	Classic	1.5
+freportn	Classic	1.5
+freportw	Classic	1.5
+gfaydark	Classic	1.5
+grobb	Classic	1.5
+gukbottom	Classic	1.75
+guktop	Classic	1.75
+halas	Classic	1.5
+hateplane	Classic	2
+hateplaneb	Classic	2
+highkeep	Classic	2
+highpass	Classic	1.5
+hole	Classic	2
+innothule	Classic	1.5
+jaggedpine	Classic	1.5
+kaladima	Classic	1.5
+kaladimb	Classic	1.5
+kedge	Classic	2.25
+kerraridge	Classic	1.5
+kithicor	Classic	1.75
+lakerathe	Classic	1.5
+lavastorm	Classic	1.5
+lfaydark	Classic	1.5
+mistmoore	Classic	1.5
+misty	Classic	1.5
+najena	Classic	1.75
+nedaria	Classic	1.5
+neriaka	Classic	1.5
+neriakb	Classic	1.5
+neriakc	Classic	1.5
+northkarana	Classic	1.5
+nro	Classic	1.5
+oasis	Classic	1.5
+oggok	Classic	1.5
+oot	Classic	1.5
+paineel	Classic	1.5
+paw	Classic	1.75
+permafrost	Classic	1.5
+qcat	Classic	1.5
+qey2hh1	Classic	1.5
+qeynos	Classic	1.5
+qeynos2	Classic	1.5
+qeytoqrg	Classic	1.5
+qrg	Classic	1.5
+rathemtn	Classic	1.5
+rivervale	Classic	1.5
+runnyeye	Classic	1.75
+shadowrest	Classic	1.5
+soldunga	Classic	1.75
+soldungb	Classic	1.75
+southkarana	Classic	1.5
+sro	Classic	1.5
+steamfont	Classic	1.5
+tox	Classic	1.5
+tutoriala	Classic	1.5
+tutorialb	Classic	1.5
+unrest	Classic	1.75
+burningwood	Kunark	1.5
+cabeast	Kunark	1.5
+cabwest	Kunark	1.5
+charasis	Kunark	2
+chardok	Kunark	2.25
+citymist	Kunark	2
+dalnir	Kunark	2
+dreadlands	Kunark	1.5
+droga	Kunark	1.8
+emeraldjungle	Kunark	1.5
+fieldofbone	Kunark	1.5
+firiona	Kunark	1.5
+frontiermtns	Kunark	1.5
+kaesora	Kunark	2
+karnor	Kunark	1.5
+kurn	Kunark	2
+lakeofillomen	Kunark	1.5
+nektulos	Kunark	1.5
+nurga	Kunark	1.8
+overthere	Kunark	1.5
+sebilis	Kunark	2
+skyfire	Kunark	1.5
+soltemple	Kunark	1.5
+swampofnohope	Kunark	1.5
+timorous	Kunark	1.5
+trakanon	Kunark	1.5
+veeshan	Kunark	2
+warslikswood	Kunark	1.5
+cobaltscar	Velious	1.5
+crystal	Velious	2
+eastwastes	Velious	1.5
+frozenshadow	Velious	2
+greatdivide	Velious	1.5
+growthplane	Velious	2.5
+iceclad	Velious	1.5
+kael	Velious	2.25
+mischiefplane	Velious	2
+necropolis	Velious	2.75
+sirens	Velious	2.5
+skyshrine	Velious	2
+sleeper	Velious	1.5
+stonebrunt	Velious	1.5
+templeveeshan	Velious	2.25
+thurgadina	Velious	1.5
+thurgadinb	Velious	1.5
+veksar	Velious	1.5
+velketor	Velious	2.25
+wakening	Velious	1.5
+warrens	Velious	2
+westwastes	Velious	1.5
+acrylia	Luclin	2.25
+akheva	Luclin	2.5
+bazaar	Luclin	1.5
+dawnshroud	Luclin	2
+echo	Luclin	2
+fungusgrove	Luclin	2
+griegsend	Luclin	2
+grimling	Luclin	2
+hollowshade	Luclin	1.75
+katta	Luclin	2
+letalis	Luclin	1.75
+maiden	Luclin	1.75
+mseru	Luclin	1.75
+netherbian	Luclin	2
+nexus	Luclin	1.5
+paludal	Luclin	2
+scarlet	Luclin	1.75
+shadeweaver	Luclin	1.75
+shadowhaven	Luclin	1.5
+sharvahl	Luclin	1.75
+sseru	Luclin	2
+ssratemple	Luclin	2.5
+tenebrous	Luclin	1.75
+thedeep	Luclin	2.25
+thegrey	Luclin	2
+twilight	Luclin	1.75
+umbral	Luclin	2
+vexthal	Luclin	2.75
+bothunder	PoP	2.75
+codecay	PoP	2.5
+hohonora	PoP	2.75
+hohonorb	PoP	2.75
+nightmareb	PoP	2.5
+poair	PoP	3
+podisease	PoP	2.5
+poeartha	PoP	3
+poearthb	PoP	3
+pofire	PoP	3
+poinnovation	PoP	2.5
+pojustice	PoP	2.5
+poknowledge	PoP	1.5
+ponightmare	PoP	2.5
+postorms	PoP	2.5
+potactics	PoP	2.75
+potimea	PoP	2.5
+potimeb	PoP	2.75
+potorment	PoP	2.5
+potranquility	PoP	1.5
+povalor	PoP	2.75
+powar	PoP	2.75
+powater	PoP	3
+solrotower	PoP	2.75
