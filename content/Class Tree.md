@@ -12,9 +12,9 @@ Most content can be completed with a solid trio. While all trios can make it thr
 
 | Tanks                           | Damage                         | Heals                          |
 |---------------------------------|--------------------------------|--------------------------------|
-| * [Paladin](pal.md)             | * [Bard](brd.md)               | * [Cleric](clr.md)             |
-| * [Shadowknight](shd.md)        | * [Beastlord](bst.md)          | * [Druid](dru.md)              |
-| * [Warrior](war.md)             | * [Berserker](ber.md)          | * [Shaman](shm.md)             |
+| * [Paladin](images/pal.md)             | * [Bard](images/brd.md)               | * [Cleric](images/clr.md)             |
+| * [Shadowknight](images/shd.md)        | * [Beastlord](images/bst.md)          | * [Druid](images/dru.md)              |
+| * [Warrior](images/war.md)             | * [Berserker](images/ber.md)          | * [Shaman](images/shm.md)             |
 |                                 | * [Monk](mnk.md)               |                                |
 |                                 | * [Ranger](rng.md)             |                                |
 |                                 | * [Rogue](rog.md)              |                                |
