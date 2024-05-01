@@ -6,7 +6,41 @@ description: Beastlord Spells.
 ---
 ![Beastlord Spells](images/bst-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
+## Beastlord AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Warder's Fury (Passive)">}}
+Each rank of this ability increases the critical hit chance of your pet's melee attacks.
+{{</details>}}
+
+
+{{<details title="Pet Affinity (Passive)">}}
+This ability makes your summoned pets a valid target for beneficial group spells.
+{{</details>}}
+
+{{<details title="Bite of the Asp (Active)">}}
+Every 1 minute, This ability allows you to imitate the bite of an asp and poison your target with a short but powerful venom.
+{{</details>}}
+
+{{<details title="Summon Companion (Active)">}}
+Every 10 seconds, This ability grants you a faster casting version of your Summon Companion spell.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Claw of the Savage Spirit](epics/bst-epic.md)
+
+
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Salve|1|Classic|Bazaar|Rowyl

@@ -6,6 +6,34 @@ description: Wizard Spells.
 ---
 ![Wizard Spells](images/wiz-banner.png)
 
+## Wizard AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Improved Familiar (Active)">}}
+Every 1 minute, This ability will summon an improved familiar that is an upgrade from the greater familiar. This improved familiar is higher in level, has more hit points, and is very resistant to all spells.  Additional ranks will call forth a familiar that provides even greater benefits to its owner than its predecessor.
+{{</details>}}
+
+{{<details title="Harvest of Druzzil (Active)">}}
+Every 8 minutes, This ability gathers streams of additional mana into your being.  You may train this ability at or after level 62. Each rank increases the amount of mana gained.
+{{</details>}}
+
+{{<details title="Arcane Overkill (Passive)">}}
+Arcane Overkill adds a chance for you to gain mana back when you score a killing strike with a spell. Ranks one through six increase your chance by 10% each rank while additional ranks increase the amount of mana returned by an Arcane Overkill. Ranks 16, 17, and 18 add a small increase to critical spell damage for 2 minutes. Ranks 19, 20, and 21 increase the chance to proc, mana returned, and damage inflicted slightly.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Staff of the Four](epics/wiz-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

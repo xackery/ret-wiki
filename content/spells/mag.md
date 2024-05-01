@@ -6,6 +6,43 @@ description: Magician Spells.
 ---
 ![Magician Spells](images/mag-banner.png)
 
+## Magician AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Pet Affinity (Passive)">}}
+This ability makes your summoned pets a valid target for beneficial group spells.
+{{</details>}}
+
+
+{{<details title="Warder's Fury (Passive)">}}
+This passive ability will grant a chance for your companion to score a critical hit when attacking via melee.
+{{</details>}}
+
+
+{{<details title="Summon Companion (Active)">}}
+Every 10 seconds, This ability grants you a faster casting version of your Summon Companion spell.
+{{</details>}}
+
+{{<details title="Host in the Shell (Active)">}}
+Every 4 minutes, This ability creates a shield of runes around your pet. Additional ranks increase the strength of the runes.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+
+- Epic: [Orb of Master](epics/mag-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

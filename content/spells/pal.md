@@ -6,6 +6,30 @@ description: Paladin Spells.
 ---
 ![Paladin Spells](images/pal-banner.png)
 
+## Paladin AAs are listed below, as well as a spell/discipline list and associated vendors.
+
+{{<details title="Divine Stun (Active)">}}
+Every 30 seconds, Training in this ability gives you a new, fast-casting spell that has the chance to interrupt NPCs up to level 68
+{{</details>}}
+
+{{<details title="Blessing of Life (Passive)">}}
+Grants a Paladin an innate chance to heal himself with each swing. Additional ranks increase the strength of the heal
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Fiery Defender](epics/pal-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

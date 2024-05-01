@@ -6,6 +6,35 @@ description: Rogue Disciplines.
 ---
 ![Rogue Disciplines](images/rog-banner.png)
 
+## Rogue AAs are listed below, as well as a Discipline list and associated vendors.
+
+{{<details title="Chaotic Stab (Passive)">}}
+This ability will allow you to do minimal backstab damage on your backstab attempt, even if you are not positioned behind the monster.
+{{</details>}}
+
+{{<details title="Shroud of Stealth (Passive)">}}
+This ability provides a previously unheard of level of stealth.  The Rogue is able to draw shadows about himself so completely, even creatures that are normally not fooled by such trickery are frequently unable to see him.
+{{</details>}}
+
+{{<details title="Killing Spree (Passive)">}}After slaying a non-trivial con enemy, you have a 10% chance per rank to enter a battle frenzy that instantly boosts your endurance slightly as well as increases your offensive damage for the next 30 seconds.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+
+- Epic: [Ragebringer](epics/rog-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

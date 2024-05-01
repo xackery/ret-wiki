@@ -6,6 +6,30 @@ description: Monk Disciplines.
 ---
 ![Monk Disciplines](images/mnk-banner.png)
 
+## Monk AAs are listed below, as well as a Discipline list and associated vendors.
+
+{{<details title="Crippling Strike (Active)">}}
+Every 30 seconds, This ability grants you an Eagle Strike attack with a chance to reduce the movement speed of the target. This ability uses endurance when activated and can not be used at the same time as Stunning Kick or Eye Gouge.
+{{</details>}}
+
+{{<details title="Technique of Master Wu (Passive)">}}
+Under the tutelage of Wu, Monks are able to hone their skills to the point of being able to execute a second and sometimes even third strike when scoring a hit with their special attacks.  This ability grants a 20 percent increase in the chance of scoring multiple special attacks.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Celestial Fists](epics/mnk-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

@@ -6,6 +6,37 @@ description: Cleric Spells.
 ---
 ![Cleric Spells](images/clr-banner.png)
 
+## Cleric AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Divine Arbitration (Active)">}}
+Every 3 minutes, Using this ability balances the health of your group such that all group members end up with the same amount of damage taken.  The first rank does so at a 20 percent penalty to the average.
+{{</details>}}
+
+
+{{<details title="Divine Avatar (Active)">}}
+Every 10 minutes, This ability infuses you with a divine spirit, greatly increasing your physical prowess for a short period of time.
+{{</details>}}
+
+{{<details title="Twinheal (Passive)">}}
+This passive ability will give you a small innate chance to perform a twincast each time you cast a healing spell. Each rank gives you a 1 percent chance to twincast.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Water Sprinkler of the Nem Ankh](epics/clr-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

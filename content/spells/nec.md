@@ -6,6 +6,43 @@ description: Necromancer Spells.
 ---
 ![Necromancer Spells](images/nec-banner.png)
 
+## Necromancer AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Pestilent Paralysis (Active)">}}
+Every 2 minutes, This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time.  Each rank of this ability increases the amount of time that the victim remains immobile.
+{{</details>}}
+
+
+{{<details title="Summon Companion (Active)">}}
+Every 10 seconds, This ability grants you a faster casting version of your Summon Companion spell.
+{{</details>}}
+
+{{<details title="Critical Affliction (Passive)">}}
+This ability grants damage-over-time spells the chance to have a critical effect each tick they are active.  Additional ranks improve this chance.
+{{</details>}}
+
+{{<details title="Destructive Cascade (Passive)">}}
+This ability increases the power of any critical hits your damage over time spells will do to your enemy.
+{{</details>}}
+
+{{<details title="Pet Affinity (Passive)">}}
+This ability makes your summoned pets a valid target for beneficial group spells.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Scythe of the Shadowed Soul](epics/nec-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

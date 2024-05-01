@@ -4,7 +4,7 @@ weight: 0
 ---
 # Welcome to the Retribution Wiki
 
-[![Logo](images/logo.png)](https://retributioneq.com/)
+![Index](images/logo.png)
 
 ---
 

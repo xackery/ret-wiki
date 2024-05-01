@@ -6,6 +6,31 @@ description: Shadowknight Spells.
 ---
 ![Shadowknight Spells](images/shd-banner.png)
 
+## Shadow Knight AAs are listed below, as well as a spell/discipline list and associated vendors.
+
+{{<details title="Explosion of Spite (Active)">}}
+Every 60 seconds, This ability will fill creatures closely around you with hatred towards you.
+{{</details>}}
+
+{{<details title="Mortal Coil (Passive)">}}
+When the Shadow Knight gets credit for a successful kill, Mortal Coil grants a 25% chance to harvest the energy of his victim's departing essence. This energy improves the Shadow Knight's AC and grants him the ability to draw hit points from his enemies as he attacks them.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Innoruuk's Curse](epics/shd-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

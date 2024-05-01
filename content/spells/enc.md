@@ -6,6 +6,47 @@ description: Enchanter Spells.
 ---
 ![Enchanter Spells](images/enc-banner.png)
 
+## Enchanter AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Project Illusion (Active)">}}
+Every 1 second, This ability allows you to project your innate talent with illusions upon others.  (Activating this ability on a targeted group member causes your next illusion spell to affect that target.)
+{{</details>}}
+
+{{<details title="Summon Companion (Active)">}}
+Every 10 seconds, This ability grants you a faster casting version of your Summon Companion spell.
+{{</details>}}
+
+
+{{<details title="Phantasmic Reflex (Passive)">}}
+This ability allows you to zone without losing your current illusion.
+{{</details>}}
+
+{{<details title="Permanent Illusion (Passive)">}}
+This passive ability grants you a chance to cover yourself with a protective rune when you cast a mesmerization spell on a target.
+{{</details>}}
+
+{{<details title="Animation Empathy Rank 3 (Passive)">}}
+Progressive ranks of this ability grant you finer control over your animations. At its initial level, you are allowed to give your animations "Guard" and "Follow" commands. At the second rank, "Attack" and "Queue Attack" commands. At the final rank, "Report Health", "Who Leader", "Back off", "Stop", "Target Pet", "Taunt", and "Sit" commands.
+{{</details>}}
+
+{{<details title="Pet Affinity (Passive)">}}
+This ability makes your summoned pets a valid target for beneficial group spells.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Staff of the Serpent](epics/enc-epic.md)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

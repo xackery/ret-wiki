@@ -6,6 +6,37 @@ description: Shaman Spells.
 ---
 ![Shaman Spells](images/shm-banner.png)
 
+## Shaman AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Ancestral Aid (Active)">}}
+Every 15 minutes, Through use of this ability, the shaman can call upon their ancestors to fill their group with strength and healing. Additional ranks increase the strength and healing granted to the group members.
+{{</details>}}
+
+
+{{<details title="Summon Companion (Active)">}}
+Every 10 seconds, This ability grants you a faster casting version of your Summon Companion spell.
+{{</details>}}
+
+{{<details title="Group Shrink (Active)">}}
+This ability will cause everyone in your group to become smaller for a time.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Spear of Fate](epics/shm-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

@@ -6,6 +6,40 @@ description: Druid Spells.
 ---
 ![Druid Spells](images/dru-banner.png)
 
+## Druid AAs are listed below, as well as a spell list and associated vendors.
+
+{{<details title="Spirit of the Wood (Active)">}}
+Every 15 minutes, For a brief time, you are able to commune with the woodland spirits who provide your party with exceptional regenerative abilities and a protective shield of armor and thorns.
+{{</details>}}
+
+{{<details title="Paralytic Spores (Active)">}}
+Every 2 minutes, This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time. Additonal ranks increase the duration of the ability.
+{{</details>}}
+
+{{<details title="Critical Affliction (Passive)">}}
+This ability grants damage-over-time spells the chance to have a critical effect each tick they are active.  Additional ranks improve this chance.
+{{</details>}}
+
+{{<details title="Destructive Cascade (Passive)">}}
+This ability increases the power of any critical hits your damage over time spells will do to your enemy.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Nature Walker's Scimitar](epics/dru-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

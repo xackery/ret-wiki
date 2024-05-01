@@ -6,6 +6,39 @@ description: Ranger Spells.
 ---
 ![Ranger Spells](images/rng-banner.png)
 
+## Ranger AAs are listed below, as well as a spell/discipline list and associated vendors.
+
+{{<details title="Entrap (Active)">}}
+Every 5 seconds, This ability provides you an additional means of entrapping, or more specifically, ensnaring an opponent.
+{{</details>}}
+
+{{<details title="Auspice of the Hunter (Active)">}}
+Every 15 minutes, This ability allows you to share your natural affinity for the hunt with your party in the form of greater accuracy, more critical hits, and increased offensive power. Additional ranks further improve this effect.
+{{</details>}}
+
+{{<details title="Endless Quiver (Passive)">}}
+This ability provides you a never-ending supply of arrows.
+{{</details>}}
+
+{{<details title="Bow Mastery (Passive)">}}
+This ability adds twenty points of damage to any sucessful attack you perform with a bow.
+{{</details>}}
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Earthcaller, Swiftwind](epics/rng-epic.md)
+
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

@@ -6,7 +6,41 @@ description: Bard Songs.
 ---
 ![Bard Songs](images/brd-banner.png)
 
-This was auto generated and likely buggy. Expect issues!
+
+## Bards starting AAs are listed below, as well as a song list and associated vendors.
+
+{{<details title="Fading Memories (Active)">}}
+With no recast delay, This ability will cause all NPCs to forget about you.  If you are out of immediate combat, this ability will also make you invisible.  This ability is usable any time that you have 250 mana.^0
+{{</details>}}
+
+{{<details title="Dance of Blades (Active)">}}
+Every 17 minutes, When activated, you begin a dance of whirling blades that greatly increases your chance to make the maximum number of attacks per round. Additionally you will have a chance to perform a bladewhirl attack on your opponent, reducing your opponents combat effectiveness and doing damage to your opponent. This bladewhirl is modified by percussion.
+{{</details>}}
+
+{{<details title="Jam Fest (Passive)">}}
+This ability allows you to sing your songs at a higher apparent level.  Note: This does not allow you to sing songs that are actually higher than your level.
+{{</details>}}
+
+{{<details title="Harmonious Attack (Passive)">}}
+This ability grants you a chance of performing a double attack in any given combat round.  Additional ranks improve your chance of performing the double attack.
+{{</details>}}
+
+
+{{<details title="Bazaar Gate (Active)">}}
+Every 10 minutes, Allows you to teleport to the bazaar when out of combat.
+{{</details>}}
+
+{{<details title="Eyes Wide Open Rank 8 (Passive)">}}
+This passive ability increases the capacity of your extended target window by one slot per rank.
+{{</details>}}
+
+{{<details title="Mystical Attuning Rank 5 (Passive)">}}
+This ability increases the number of mystical effects that can affect you at once by 1 per rank.
+{{</details>}}
+
+- Epic: [Singing Short Sword](epics/brd-epic.md)
+
+
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Chant of Battle|1|Classic|Bazaar|Inisis Trimpet
