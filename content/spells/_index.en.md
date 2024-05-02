@@ -1,5 +1,5 @@
 ---
-title: "Class Tree"
+title: "Group Builder"
 weight: 6
 images: [images/progression.png]
 description: How to build your trio.
@@ -7,7 +7,11 @@ description: How to build your trio.
 
 ![Class Tree](images/progression.png)
 
-Most content can be completed with a solid trio. While all trios can make it through most content, some are stronger than others. In general, picking a tank, a damage, and a healer will get you through most content. Some synergies, like Enchanter/Wizard, or Rogue/Necro are also very viable. The more advanced trios might be more of a chore to level and get geared/AA'd up, but they will out perform more generic combos in the long run.
+Most content can be completed with a solid trio. While all trios can make it through most content, some are stronger than others. In general, picking a tank, a damage, and a healer will get you through most content. Here are some other options.
+
+- If you are going to 1box: Necro, Mage, Enchanter, Shaman, Druid, Paladin, Ranger, or Shadowknight are solid choices.
+- If you are going to 2box: Any pet class + any healer | Any pet class + Pacifier, Puller, or CC (Cleric/Paladin/Bard/Enchanter/SK) | Any melee DPS class + healer
+- If you are going to 3box: Any 2box suggestion + whatever you are missing (ie. something to take damage, something to heal the damage they take, and something to deal damage)
 
 Click on the classes below to see the available skills/AAs.
 

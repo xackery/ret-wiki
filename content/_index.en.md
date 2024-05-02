@@ -1,8 +1,7 @@
 ---
-title: Retribution Wiki
+title: Welcome to the Retribution Wiki
 weight: 0
 ---
-# Welcome to the Retribution Wiki
 
 ![Index](images/logo.png)
 

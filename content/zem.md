@@ -13,186 +13,186 @@ Note this is only for the alpha and will change when the DB inject occurs.
 
 ## Classic
 
-short|long|modifier
----|---|---
-airplane	Classic	2
-akanon	Classic	1.5
-arena	Classic	1.5
-befallen	Classic	1.75
-beholder	Classic	1.5
-blackburrow	Classic	2
-butcher	Classic	1.5
-cauldron	Classic	1.5
-cazicthule	Classic	2
-commons	Classic	1.5
-crushbone	Classic	1.75
-cshome	Classic	1.5
-eastkarana	Classic	1.5
-ecommons	Classic	1.5
-erudnext	Classic	1.5
-erudnint	Classic	1.5
-erudsxing	Classic	1.5
-everfrost	Classic	1.5
-fearplane	Classic	2
-feerrott	Classic	1.5
-felwithea	Classic	1.5
-felwitheb	Classic	1.5
-freporte	Classic	1.5
-freportn	Classic	1.5
-freportw	Classic	1.5
-gfaydark	Classic	1.5
-grobb	Classic	1.5
-gukbottom	Classic	1.75
-guktop	Classic	1.75
-halas	Classic	1.5
-hateplane	Classic	2
-hateplaneb	Classic	2
-highkeep	Classic	2
-highpass	Classic	1.5
-hole	Classic	2
-innothule	Classic	1.5
-jaggedpine	Classic	1.5
-kaladima	Classic	1.5
-kaladimb	Classic	1.5
-kedge	Classic	2.25
-kerraridge	Classic	1.5
-kithicor	Classic	1.75
-lakerathe	Classic	1.5
-lavastorm	Classic	1.5
-lfaydark	Classic	1.5
-mistmoore	Classic	1.5
-misty	Classic	1.5
-najena	Classic	1.75
-nedaria	Classic	1.5
-neriaka	Classic	1.5
-neriakb	Classic	1.5
-neriakc	Classic	1.5
-northkarana	Classic	1.5
-nro	Classic	1.5
-oasis	Classic	1.5
-oggok	Classic	1.5
-oot	Classic	1.5
-paineel	Classic	1.5
-paw	Classic	1.75
-permafrost	Classic	1.5
-qcat	Classic	1.5
-qey2hh1	Classic	1.5
-qeynos	Classic	1.5
-qeynos2	Classic	1.5
-qeytoqrg	Classic	1.5
-qrg	Classic	1.5
-rathemtn	Classic	1.5
-rivervale	Classic	1.5
-runnyeye	Classic	1.75
-shadowrest	Classic	1.5
-soldunga	Classic	1.75
-soldungb	Classic	1.75
-southkarana	Classic	1.5
-sro	Classic	1.5
-steamfont	Classic	1.5
-tox	Classic	1.5
-tutoriala	Classic	1.5
-tutorialb	Classic	1.5
-unrest	Classic	1.75
-burningwood	Kunark	1.5
-cabeast	Kunark	1.5
-cabwest	Kunark	1.5
-charasis	Kunark	2
-chardok	Kunark	2.25
-citymist	Kunark	2
-dalnir	Kunark	2
-dreadlands	Kunark	1.5
-droga	Kunark	1.8
-emeraldjungle	Kunark	1.5
-fieldofbone	Kunark	1.5
-firiona	Kunark	1.5
-frontiermtns	Kunark	1.5
-kaesora	Kunark	2
-karnor	Kunark	1.5
-kurn	Kunark	2
-lakeofillomen	Kunark	1.5
-nektulos	Kunark	1.5
-nurga	Kunark	1.8
-overthere	Kunark	1.5
-sebilis	Kunark	2
-skyfire	Kunark	1.5
-soltemple	Kunark	1.5
-swampofnohope	Kunark	1.5
-timorous	Kunark	1.5
-trakanon	Kunark	1.5
-veeshan	Kunark	2
-warslikswood	Kunark	1.5
-cobaltscar	Velious	1.5
-crystal	Velious	2
-eastwastes	Velious	1.5
-frozenshadow	Velious	2
-greatdivide	Velious	1.5
-growthplane	Velious	2.5
-iceclad	Velious	1.5
-kael	Velious	2.25
-mischiefplane	Velious	2
-necropolis	Velious	2.75
-sirens	Velious	2.5
-skyshrine	Velious	2
-sleeper	Velious	1.5
-stonebrunt	Velious	1.5
-templeveeshan	Velious	2.25
-thurgadina	Velious	1.5
-thurgadinb	Velious	1.5
-veksar	Velious	1.5
-velketor	Velious	2.25
-wakening	Velious	1.5
-warrens	Velious	2
-westwastes	Velious	1.5
-acrylia	Luclin	2.25
-akheva	Luclin	2.5
-bazaar	Luclin	1.5
-dawnshroud	Luclin	2
-echo	Luclin	2
-fungusgrove	Luclin	2
-griegsend	Luclin	2
-grimling	Luclin	2
-hollowshade	Luclin	1.75
-katta	Luclin	2
-letalis	Luclin	1.75
-maiden	Luclin	1.75
-mseru	Luclin	1.75
-netherbian	Luclin	2
-nexus	Luclin	1.5
-paludal	Luclin	2
-scarlet	Luclin	1.75
-shadeweaver	Luclin	1.75
-shadowhaven	Luclin	1.5
-sharvahl	Luclin	1.75
-sseru	Luclin	2
-ssratemple	Luclin	2.5
-tenebrous	Luclin	1.75
-thedeep	Luclin	2.25
-thegrey	Luclin	2
-twilight	Luclin	1.75
-umbral	Luclin	2
-vexthal	Luclin	2.75
-bothunder	PoP	2.75
-codecay	PoP	2.5
-hohonora	PoP	2.75
-hohonorb	PoP	2.75
-nightmareb	PoP	2.5
-poair	PoP	3
-podisease	PoP	2.5
-poeartha	PoP	3
-poearthb	PoP	3
-pofire	PoP	3
-poinnovation	PoP	2.5
-pojustice	PoP	2.5
-poknowledge	PoP	1.5
-ponightmare	PoP	2.5
-postorms	PoP	2.5
-potactics	PoP	2.75
-potimea	PoP	2.5
-potimeb	PoP	2.75
-potorment	PoP	2.5
-potranquility	PoP	1.5
-povalor	PoP	2.75
-powar	PoP	2.75
-powater	PoP	3
-solrotower	PoP	2.75
+|       |   |  |
+|---------------|---------|----------|
+| airplane      | Classic | 2        |
+| akanon        | Classic | 1.5      |
+| arena         | Classic | 1.5      |
+| befallen      | Classic | 1.75     |
+| beholder      | Classic | 1.5      |
+| blackburrow   | Classic | 2        |
+| butcher       | Classic | 1.5      |
+| cauldron      | Classic | 1.5      |
+| cazicthule    | Classic | 2        |
+| commons       | Classic | 1.5      |
+| crushbone     | Classic | 1.75     |
+| cshome        | Classic | 1.5      |
+| eastkarana    | Classic | 1.5      |
+| ecommons      | Classic | 1.5      |
+| erudnext      | Classic | 1.5      |
+| erudnint      | Classic | 1.5      |
+| erudsxing     | Classic | 1.5      |
+| everfrost     | Classic | 1.5      |
+| fearplane     | Classic | 2        |
+| feerrott      | Classic | 1.5      |
+| felwithea     | Classic | 1.5      |
+| felwitheb     | Classic | 1.5      |
+| freporte      | Classic | 1.5      |
+| freportn      | Classic | 1.5      |
+| freportw      | Classic | 1.5      |
+| gfaydark      | Classic | 1.5      |
+| grobb         | Classic | 1.5      |
+| gukbottom     | Classic | 1.75     |
+| guktop        | Classic | 1.75     |
+| halas         | Classic | 1.5      |
+| hateplane     | Classic | 2        |
+| hateplaneb    | Classic | 2        |
+| highkeep      | Classic | 2        |
+| highpass      | Classic | 1.5      |
+| hole          | Classic | 2        |
+| innothule     | Classic | 1.5      |
+| jaggedpine    | Classic | 1.5      |
+| kaladima      | Classic | 1.5      |
+| kaladimb      | Classic | 1.5      |
+| kedge         | Classic | 2.25     |
+| kerraridge    | Classic | 1.5      |
+| kithicor      | Classic | 1.75     |
+| lakerathe     | Classic | 1.5      |
+| lavastorm     | Classic | 1.5      |
+| lfaydark      | Classic | 1.5      |
+| mistmoore     | Classic | 1.5      |
+| misty         | Classic | 1.5      |
+| najena        | Classic | 1.75     |
+| nedaria       | Classic | 1.5      |
+| neriaka       | Classic | 1.5      |
+| neriakb       | Classic | 1.5      |
+| neriakc       | Classic | 1.5      |
+| northkarana   | Classic | 1.5      |
+| nro           | Classic | 1.5      |
+| oasis         | Classic | 1.5      |
+| oggok         | Classic | 1.5      |
+| oot           | Classic | 1.5      |
+| paineel       | Classic | 1.5      |
+| paw           | Classic | 1.75     |
+| permafrost    | Classic | 1.5      |
+| qcat          | Classic | 1.5      |
+| qey2hh1       | Classic | 1.5      |
+| qeynos        | Classic | 1.5      |
+| qeynos2       | Classic | 1.5      |
+| qeytoqrg      | Classic | 1.5      |
+| qrg           | Classic | 1.5      |
+| rathemtn      | Classic | 1.5      |
+| rivervale     | Classic | 1.5      |
+| runnyeye      | Classic | 1.75     |
+| shadowrest    | Classic | 1.5      |
+| soldunga      | Classic | 1.75     |
+| soldungb      | Classic | 1.75     |
+| southkarana   | Classic | 1.5      |
+| sro           | Classic | 1.5      |
+| steamfont     | Classic | 1.5      |
+| tox           | Classic | 1.5      |
+| tutoriala     | Classic | 1.5      |
+| tutorialb     | Classic | 1.5      |
+| unrest        | Classic | 1.75     |
+| burningwood   | Kunark  | 1.5      |
+| cabeast       | Kunark  | 1.5      |
+| cabwest       | Kunark  | 1.5      |
+| charasis      | Kunark  | 2        |
+| chardok       | Kunark  | 2.25     |
+| citymist      | Kunark  | 2        |
+| dalnir        | Kunark  | 2        |
+| dreadlands    | Kunark  | 1.5      |
+| droga         | Kunark  | 1.8      |
+| emeraldjungle | Kunark  | 1.5      |
+| fieldofbone   | Kunark  | 1.5      |
+| firiona       | Kunark  | 1.5      |
+| frontiermtns  | Kunark  | 1.5      |
+| kaesora       | Kunark  | 2        |
+| karnor        | Kunark  | 1.5      |
+| kurn          | Kunark  | 2        |
+| lakeofillomen | Kunark  | 1.5      |
+| nektulos      | Kunark  | 1.5      |
+| nurga         | Kunark  | 1.8      |
+| overthere     | Kunark  | 1.5      |
+| sebilis       | Kunark  | 2        |
+| skyfire       | Kunark  | 1.5      |
+| soltemple     | Kunark  | 1.5      |
+| swampofnohope | Kunark  | 1.5      |
+| timorous      | Kunark  | 1.5      |
+| trakanon      | Kunark  | 1.5      |
+| veeshan       | Kunark  | 2        |
+| warslikswood  | Kunark  | 1.5      |
+| cobaltscar    | Velious | 1.5      |
+| crystal       | Velious | 2        |
+| eastwastes    | Velious | 1.5      |
+| frozenshadow  | Velious | 2        |
+| greatdivide   | Velious | 1.5      |
+| growthplane   | Velious | 2.5      |
+| iceclad       | Velious | 1.5      |
+| kael          | Velious | 2.25     |
+| mischiefplane | Velious | 2        |
+| necropolis    | Velious | 2.75     |
+| sirens        | Velious | 2.5      |
+| skyshrine     | Velious | 2        |
+| sleeper       | Velious | 1.5      |
+| stonebrunt    | Velious | 1.5      |
+| templeveeshan | Velious | 2.25     |
+| thurgadina    | Velious | 1.5      |
+| thurgadinb    | Velious | 1.5      |
+| veksar        | Velious | 1.5      |
+| velketor      | Velious | 2.25     |
+| wakening      | Velious | 1.5      |
+| warrens       | Velious | 2        |
+| westwastes    | Velious | 1.5      |
+| acrylia       | Luclin  | 2.25     |
+| akheva        | Luclin  | 2.5      |
+| bazaar        | Luclin  | 1.5      |
+| dawnshroud    | Luclin  | 2        |
+| echo          | Luclin  | 2        |
+| fungusgrove   | Luclin  | 2        |
+| griegsend     | Luclin  | 2        |
+| grimling      | Luclin  | 2        |
+| hollowshade   | Luclin  | 1.75     |
+| katta         | Luclin  | 2        |
+| letalis       | Luclin  | 1.75     |
+| maiden        | Luclin  | 1.75     |
+| mseru         | Luclin  | 1.75     |
+| netherbian    | Luclin  | 2        |
+| nexus         | Luclin  | 1.5      |
+| paludal       | Luclin  | 2        |
+| scarlet       | Luclin  | 1.75     |
+| shadeweaver   | Luclin  | 1.75     |
+| shadowhaven   | Luclin  | 1.5      |
+| sharvahl      | Luclin  | 1.75     |
+| sseru         | Luclin  | 2        |
+| ssratemple    | Luclin  | 2.5      |
+| tenebrous     | Luclin  | 1.75     |
+| thedeep       | Luclin  | 2.25     |
+| thegrey       | Luclin  | 2        |
+| twilight      | Luclin  | 1.75     |
+| umbral        | Luclin  | 2        |
+| vexthal       | Luclin  | 2.75     |
+| bothunder     | PoP     | 2.75     |
+| codecay       | PoP     | 2.5      |
+| hohonora      | PoP     | 2.75     |
+| hohonorb      | PoP     | 2.75     |
+| nightmareb    | PoP     | 2.5      |
+| poair         | PoP     | 3        |
+| podisease     | PoP     | 2.5      |
+| poeartha      | PoP     | 3        |
+| poearthb      | PoP     | 3        |
+| pofire        | PoP     | 3        |
+| poinnovation  | PoP     | 2.5      |
+| pojustice     | PoP     | 2.5      |
+| poknowledge   | PoP     | 1.5      |
+| ponightmare   | PoP     | 2.5      |
+| postorms      | PoP     | 2.5      |
+| potactics     | PoP     | 2.75     |
+| potimea       | PoP     | 2.5      |
+| potimeb       | PoP     | 2.75     |
+| potorment     | PoP     | 2.5      |
+| potranquility | PoP     | 1.5      |
+| povalor       | PoP     | 2.75     |
+| powar         | PoP     | 2.75     |
+| powater       | PoP     | 3        |
+| solrotower    | PoP     | 2.75     |

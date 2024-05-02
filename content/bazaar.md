@@ -6,6 +6,8 @@ description: Tearel and his Magic Map in the bazaar can be used to teleport to v
 
 ![Bazaar](images/teleport.png)
 
+## Tearel
+
 Tearel in the bazaar can be used to teleport to various destinations for a fee. You unlock them account wide by visiting certain areas within each zone.
 
 - Using Echo of Memory x5 (Alt Currency) will unlock the ability to teleport your group (and raid). Echo of Memory is currently a Donation Only Item.
@@ -15,8 +17,6 @@ Tearel in the bazaar can be used to teleport to various destinations for a fee. 
 - Teleporting is 25pp levels 52-60.
 - Teleporting is 75pp levels 61-65.
 - Teleporting is 150pp levels 66-99.
-
-## Tearel
 
 The Magic Map can be aligned to a few of the more commonly used zones. Buying a stone from Tearel and handing it back to him, will align his magic map to the zone you want.
 
@@ -31,6 +31,8 @@ The Magic Map can be aligned to a few of the more commonly used zones. Buying a 
 - Scarlet Sand
 - Seeds of the Hanging Gardens
 - Shattered Bone of the Dreadlands
+
+## The Polymorphist
 
 The Polymorphist in the Bazaar now offers race and gender changes (eventually they will offer name and pet name changes as well).
 
