@@ -18,21 +18,19 @@ weight: 0
 ## Tools
 - **[Magelo](https://retributioneq.com/magelo/)** - Character and inventory management.
 - **[Allaclone](https://retributioneq.com/allaclone/)** - Detailed database of game items and quests.
-- **[Character Mover](https://retributioneq.com/magelo/index.php?page=charmove)** - Easily transfer characters between accounts.
-
+- **[Character Mover](https://retributioneq.com/magelo/index.php?page=charmove)** - Useful if your character gets stuck somewhere in the world.
 ---
 
 ## Game Information
 - **[Class Tree](spells/_index.en.md/)** - Detailed guides and strategies for each class.
-- **[Fast Travel How To](/teleport)** - Learn about fast travel options and how to use them.
-
+- **[Seasons of Retribution](/Seasons.md/)** - Detailed guides and strategies for each class.
+- **[Bazaar](/bazaar)** - Trading hub information and tips.
 ---
 
 ## Resources
 - **[ZEM Values](/zem)** - Zone Experience Modifiers to maximize your leveling.
-- **[Bazaar](/bazaar)** - Trading hub information and tips.
-- **[Recommended Builds](/builds)** - Suggested builds for various classes and playstyles.
-
+- **[Recommended Builds](/spells/_index.en.md/)** - Suggested builds for various classes and playstyles.
+- **[E3](https://discord.gg/3fnPC45H6P)** - Retribution is MQ/E3 friendly, here is a link to their discord for support.
 ---
 
 Feel free to explore and contribute to the Retribution Wiki! Let's build a great community together.
