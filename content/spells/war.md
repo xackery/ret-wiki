@@ -36,9 +36,10 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-- Epic: [Jagged Blade of War](epics/war-epic.md)
 
-This was auto generated and likely buggy. Expect issues!
+## Epic: [Jagged Blade of War](epics/war-epic.md)
+## Disciplines List
+
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Throw Stone|1|Classic|East Commonlands|Xernic Gutner

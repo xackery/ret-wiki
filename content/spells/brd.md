@@ -38,8 +38,8 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-- Epic: [Singing Short Sword](epics/brd-epic.md)
-
+## Epic: [Singing Short Sword](epics/brd-epic.md)
+## Song List
 
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

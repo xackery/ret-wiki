@@ -34,9 +34,9 @@ The Polymorphist in the Bazaar now offers race and gender changes (eventually th
 
 Apocrypha NPC buff changes:
 
-Buffs are now free for players level 1-20, Shield of Thorns has been removed
-Buffs cost reduced to 10pp for players between level 21-46, Shield of Thorns has been removed
-Buffs cost reduced to 100pp for players between level 46-60
-Buffs cost reduced to 250pp for players level 61+
+- Buffs are now free for players level 1-20, Shield of Thorns has been removed
+- Buffs cost reduced to 10pp for players between level 21-46, Shield of Thorns has been removed
+- Buffs cost reduced to 100pp for players between level 46-60
+- Buffs cost reduced to 250pp for players level 61+
 
 Apocrypha now offers double-duration buffs at triple the cost. Base duration increased to 2 hours.

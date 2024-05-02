@@ -6,6 +6,8 @@ images: [images/exp.png]
 
 ![Experience](images/exp.png)
 
+## This table represents the level range you can group with people.
+
 Low|High|Low|High|Low|High|Low|High|Low|High
 ---|---|---|---|---|---|---|---|---|---
 1|6|17|26|33|49|49|75|65|95

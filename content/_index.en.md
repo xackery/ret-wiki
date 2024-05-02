@@ -23,8 +23,7 @@ weight: 0
 ---
 
 ## Game Information
-- **[Class Information](/classes)** - Detailed guides and strategies for each class.
-- **[Epic Quests](/epics)** - Step-by-step instructions to complete your epic quests.
+- **[Class Tree](spells/_index.en.md/)** - Detailed guides and strategies for each class.
 - **[Fast Travel How To](/teleport)** - Learn about fast travel options and how to use them.
 
 ---

@@ -32,9 +32,10 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-- Epic: [Staff of the Four](epics/wiz-epic.md)
+- Epic:
+## Epic: [Staff of the Four](epics/wiz-epic.md)
+## Spells List
 
-This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Blast of Cold|1|Classic|Bazaar|Gissa Brist

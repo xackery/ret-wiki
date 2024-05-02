@@ -28,10 +28,9 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-- Epic: [Innoruuk's Curse](epics/shd-epic.md)
+## Epic: [Innoruuk's Curse](epics/shd-epic.md)
+## Spells/Disciplines List
 
-
-This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Spike of Disease|1|Classic|Bazaar|Tinkerer Oshran
