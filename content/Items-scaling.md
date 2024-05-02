@@ -8,9 +8,9 @@ images: [images/exp.png]
 
 ## Regular vs Rose vs Apocryphal
 
-- Regular items or non tagged Rose/Apocryphal, will look like nor mal vanilla items. You will notice no stat or proc rate changes. Most no drop labels have been removed as well.
-- Rose items should have roughly double the stats of Regular items. They will also have an increased proc rate of 10%
-- Apocryphal items should have an additional set of heroic stats and +20% proc rate. Additionally, some class restricted items, like illusion masks, should be All/All.
+- Regular items or non tagged Rose/Apocryphal, will look like normal vanilla items. You will notice no stat or proc rate changes. Most no drop labels have been removed as well.
+- Rose items have 1.5 times the stats of Regular items. They will also have an increased proc rate of 10%
+- Apocryphal items have 2.0 time the stats of Regular items, an additional 1/4 heroic on all base stats, as well as +20% proc rate. Additionally, some class restricted items, like illusion masks, should be All/All.
 
 
 ## Stats and how they work

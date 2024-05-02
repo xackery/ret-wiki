@@ -8,9 +8,6 @@ images: [images/zem.png]
 ![ZEM](images/zem-banner.png)
 
 
-Note this is only for the alpha and will change when the DB inject occurs.
-
-
 ## Classic
 
 |       |   |  |
