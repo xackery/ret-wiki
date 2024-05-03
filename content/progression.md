@@ -5,7 +5,7 @@ images: [images/progression.png]
 description: Progression guide through the retribution.
 ---
 
-![Progression](images/progression.png)
+![Progression](images/Nagafen.png)
 
 Progression is broken into expansions, with key mobs needing to be killed to unlock the next. An optional Collectors Quest, will yield the same results as the conventional flagging.
 
