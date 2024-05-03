@@ -1,5 +1,5 @@
 
-![New-Players](Newplayers.png)
+![New-Players](images/Newplayers.png)
 
 # Getting Started with Retribution
 
