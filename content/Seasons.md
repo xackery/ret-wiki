@@ -4,6 +4,7 @@ weight: 6
 images: [images/Seasons.png]
 description: Seasons intro
 ---
+![Seasons](images/Seasons.png)
 
 Starting June 21st at 8EST, Retribution will be launching Seasonal play!
 

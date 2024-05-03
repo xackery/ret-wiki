@@ -21,7 +21,7 @@ weight: 0
 ---
 
 ## Game Information
-- **[Class Tree](spells/_index.en.md/)** - Detailed guides and strategies for each class.
+- **[Group Builder](spells/_index.en.md/)** - Detailed guides and strategies for each class.
 - **[Seasons of Retribution](/Seasons.md/)** - Detailed guides and strategies for each class.
 - **[Bazaar](/bazaar)** - Trading hub information and tips.
 ---

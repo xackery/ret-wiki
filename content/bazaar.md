@@ -4,7 +4,7 @@ images: [images/teleport.png]
 description: Tearel and his Magic Map in the bazaar can be used to teleport to various destinations for a fee.
 ---
 
-![Bazaar](images/teleport.png)
+![Bazaar](images/Bazaar.png)
 
 ## Tearel
 
