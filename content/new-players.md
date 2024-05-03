@@ -1,5 +1,5 @@
 
-![New-Players](New-Players.png)
+![New-Players](NewPlayers.png)
 
 # Getting Started with Retribution
 
@@ -72,7 +72,7 @@ Embark on your adventure and enjoy the unique experience that Retribution has to
 - Do not ping them unless its game breaking, submit a bug-report in the discord.
 
 > [!question]
-> I am getting this error, what do I do?
-![Error](Error-DL.png)
+> I am getting this error (The code execution cannot proceed because d3dx9_30.dll was not found. Reinstalling the program may fix this problem), what do I do?
+
 
 - Follow the steps here (**[Directx Fix](https://answers.microsoft.com/en-us/windows/forum/all/directx-june-2010-asks-what-location-to-put/5e5ba845-09eb-4209-8a4c-d00e92cb0724)**), and it should clear up frequently seen directx related errors.

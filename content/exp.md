@@ -4,7 +4,7 @@ description: Group Experience Level Ranges
 images: [images/exp.png]
 ---
 
-![Experience](images/exp.png)
+![Experience](images/Experience.png)
 
 ## This table represents the level range you can group with people.
 
