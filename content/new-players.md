@@ -69,5 +69,10 @@ Embark on your adventure and enjoy the unique experience that Retribution has to
 > [!question]
 > I have X problem, and I need Cata/Aporia to look at it?
 
-Do not ping them unless its game breaking, submit a bug-report in the discord.
+- Do not ping them unless its game breaking, submit a bug-report in the discord.
 
+> [!question]
+> I am getting this error, what do I do?
+![Error](Error-DL.png)
+
+- Follow the steps here (**[Directx Fix](https://answers.microsoft.com/en-us/windows/forum/all/directx-june-2010-asks-what-location-to-put/5e5ba845-09eb-4209-8a4c-d00e92cb0724)**), and it should clear up frequently seen directx related errors.
