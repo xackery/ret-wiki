@@ -5,7 +5,8 @@ images: [images/progression.png]
 description: How to build your trio.
 ---
 
-![Classes](content\images\Groupbuilder.png)
+![GroupBuilder](content/images/Groupbuilder.png)
+
 
 Most content can be completed with a solid trio. While all trios can make it through most content, some are stronger than others. In general, picking a tank, a damage, and a healer will get you through most content. Here are some other options.
 
