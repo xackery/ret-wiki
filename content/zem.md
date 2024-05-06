@@ -5,7 +5,7 @@ note: select short_name, long_name, zone_exp_multiplier, expansion from zone whe
 images: [images/zem.png]
 ---
 
-![ZEM](images/zem-banner.png)
+![ZEM](images/Zem2.png)
 
 
 ## Classic
