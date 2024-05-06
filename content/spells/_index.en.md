@@ -29,3 +29,6 @@ Click on the classes below to see the available skills/AAs.
 |                                 | * [Wizard](spells/wiz.md)             |                                |
 |                                 | * [Magician](spells/mag.md)           |                                |
 |                                 | * [Enchanter](spells/enc.md)          |                                |
+
+
+[def]: images/groupbuilder.png
