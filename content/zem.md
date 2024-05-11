@@ -3,13 +3,14 @@ title: Zone Experience Modifier
 description: Zone EXP for each zone
 note: select short_name, long_name, zone_exp_multiplier, expansion from zone where expansion = 2 order by zone_exp_multiplier desc;
 images: [images/zem.png]
+BookToC: true # can turn to true to make the width a little less, can also split the table to jump sections
 ---
 
 ![ZEM](images/Zem2.png)
 
 
 ## Classic
-
+{{<tablecenter "table table-striped table-bordered">}}
 |       |   |  |
 |---------------|---------|----------|
 | airplane      | Classic | 2        |
@@ -193,3 +194,4 @@ images: [images/zem.png]
 | powar         | PoP     | 2.75     |
 | powater       | PoP     | 3        |
 | solrotower    | PoP     | 2.75     |
+{{</tablecenter>}}

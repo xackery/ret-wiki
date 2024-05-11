@@ -16,19 +16,21 @@ Most content can be completed with a solid trio. While all trios can make it thr
 
 Click on the classes below to see the available skills/AAs.
 
+{{<tablecenter "table table-striped table-bordered">}}
+|Tanks|Damage|Heals|
+|:---------------------------------:|:----------------------------:|:-------------------------:|
+|* [Paladin](spells/pal.md)       |* [Bard](spells/brd.md)     |* [Cleric](spells/clr.md)|
+|* [Shadowknight](spells/shd.md)  |* [Beastlord](spells/bst.md)|* [Druid](spells/dru.md) |
+|* [Warrior](spells/war.md)       |* [Berserker](spells/ber.md)|* [Shaman](spells/shm.md)|
+||* [Monk](spells/mnk.md)         ||
+||* [Ranger](spells/rng.md)       ||
+||* [Rogue](spells/rog.md)        ||
+||* [Necromancer](spells/nec.md)  ||
+||* [Wizard](spells/wiz.md)       ||
+||* [Magician](spells/mag.md)     ||
+||* [Enchanter](spells/enc.md)    ||
+{{</tablecenter>}}
 
-| Tanks                           | Damage                         | Heals                          |
-|---------------------------------|--------------------------------|--------------------------------|
-| * [Paladin](spells/pal.md)             | * [Bard](spells/brd.md)               | * [Cleric](spells/clr.md)             |
-| * [Shadowknight](spells/shd.md)        | * [Beastlord](spells/bst.md)          | * [Druid](spells/dru.md)              |
-| * [Warrior](spells/war.md)             | * [Berserker](spells/ber.md)          | * [Shaman](spells/shm.md)             |
-|                                 | * [Monk](spells/mnk.md)               |                                |
-|                                 | * [Ranger](spells/rng.md)             |                                |
-|                                 | * [Rogue](spells/rog.md)              |                                |
-|                                 | * [Necromancer](spells/nec.md)        |                                |
-|                                 | * [Wizard](spells/wiz.md)             |                                |
-|                                 | * [Magician](spells/mag.md)           |                                |
-|                                 | * [Enchanter](spells/enc.md)          |                                |
 
 
 [def]: images/groupbuilder.png

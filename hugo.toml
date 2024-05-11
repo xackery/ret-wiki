@@ -7,7 +7,7 @@ theme = "amethyst"
 
 [params]
 title = "Ret-Wiki"
-logo = "LogoGreen.png"
+logo = "ret-logo.png"
 description = "ret-wiki.web.app"
 enableFooter = false
 enableGitHubEdit = true

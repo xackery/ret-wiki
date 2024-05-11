@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Retribution Wiki
 weight: 0
+BookToC: false
 ---
 
 ![Index](images/logo.png)
