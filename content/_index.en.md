@@ -31,6 +31,7 @@ BookToC: false
 - **[ZEM Values](/zem)** - Zone Experience Modifiers to maximize your leveling.
 - **[Recommended Builds](/spells/_index.en.md/)** - Suggested builds for various classes and playstyles.
 - **[E3](https://discord.gg/3fnPC45H6P)** - Retribution is MQ/E3 friendly, here is a link to their discord for support.
+- **[FAQ](/FAQ)** - Quick look for common issues, OR, not so common...
 ---
 
 Feel free to explore and contribute to the Retribution Wiki! Let's build a great community together.
