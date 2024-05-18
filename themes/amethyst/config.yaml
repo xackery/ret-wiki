@@ -81,8 +81,8 @@ params:
 
   # Footer links
   links:
-    - link_name: THJ Website
-      link: https://heroesjourneyeq.com/
+    - link_name: Retribution Website
+      link: https://retributioneq.com/
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
