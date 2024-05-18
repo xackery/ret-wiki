@@ -6,6 +6,23 @@ description: Enchanter Spells.
 ---
 ![Enchanter Spells](images/enc-banner.png)
 
+
+## Enchanters have been completely reworked from live, changes are as follows:
+
+- Charm is now usable at level 1 but only works on mobs up to level 10.
+- Charmed enemies now receive mitigation, accuracy, and strikethrough (the same additions already given to MAG/BST/NEC pet buffs).
+- Charm has a -10 resist modifier.
+- All of these effects increase with the level of charm spell.
+- Charm effects up to level 10 (attainable at level 1)
+- Beguile effects up to level 25 (attainable at level 10)
+- Cajoling Whispers effects up to level 35 (attainable at 20)
+- Allure effects up to level 45 (attainable at 30)
+- Ordinance now effects up to level 52 (usable at 40)
+- Boltran's Agacerie now effects up to level 55 (usable at level 40)
+- Dictate now effects up to level 60 (usable at level 52)
+- Beckon now effects up to level 64 (usable at level 61)
+- Command of Druzzil now behave's like Dictate (-1000 resist modifier with a base duration of 2 minutes) and effects up to level 65 (usable at level 61)
+
 ## Enchanter AAs are listed below, as well as a spell list and associated vendors.
 
 {{<details title="Project Illusion (Active)">}}

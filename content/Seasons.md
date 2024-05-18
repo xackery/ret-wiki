@@ -22,10 +22,28 @@ Seasons of Retribution is primarily an opportunity for new and old players alike
 - A 20 Slot, No Trade, bag that can be upgraded as players unlock expansions.
 - Unique titles for players as they unlock new expansions.
 - Special progression instances in which enemies do not respawn.
-- Access to the rarest class of item in EQ history, Artifacts. Very rarely a looted, quested, or tradeskilled A- pocryphal item may become an Artifact. This can occur only once per item, per Season. These items have improved stats vs the normal Apocryphal, bear the name of the person who looted, earned, or created it, and may be freely traded between players without Attunement. However, they cannot be dropped on the ground or sold to NPC vendors.
+- Access to the rarest class of item in EQ history, Artifacts. Very rarely a looted, quested, or tradeskilled Apocryphal item may become an Artifact. This can occur only once per item, per Season. These items have improved stats vs the normal Apocryphal, bear the name of the person who looted, earned, or created it, and may be freely traded between players without Attunement. However, they cannot be dropped on the ground or sold to NPC vendors.
 
 (No trade items will become Lore and attunable at the end of the season)
 
+## Seasonal AA's granted at level 51:
+
+- MAG - Companion of Necessity (20s duration, 10m CD)
+- ENC - Beam of Slumber (18s duration, 2m CD)
+- NEC - Funeral Pyre (2m duration, 10m CD)
+- BST - Frenzied Swipes (30s duration, 10m CD)
+- SK - Vicious Bite of Chaos (1m CD)
+- SHM - Spiritual Blessing (1m duration, 10m CD
+- ROG - Mrylokar's Rigor (25% increase for 12 seconds, 25% chance on backstab proc)
+- MNK - Rank 2 of Technique of Master Wu (Rank 6 now available up from 5)
+- RNG - Trick Shot Rk I (Rank 7 now available up from 6)
+- PAL -  Blessing of Light Rk I (Rank 2 now available up from I)
+- WAR - Imperator's Command AA on a 5min CD
+- BRD - Troubadour's Weapon Mastery (10% weapon damage increase)
+- WIZ - Focus of Arcanum (granted at 51, purchasable by all casters)
+- DRU -  Nature's Blessing AA (1m duration, 10m CD
+- CLR -  Add Battle Frenzy AA Rk I on a 5min CD
+- BER - Decap AA, but it can only proc after a mob reaches 25%
 ## Seasonal character restrictions:
 
 - No more than 6 players will be allowed in any DZ.
