@@ -17,6 +17,7 @@ BookToC: false
 
 ## Tools
 - **[Magelo](https://retributioneq.com/magelo/)** - Character and inventory management.
+- **[Bazaar Search](https://retributioneq.com/magelo/index.php?page=bazaar)** - A way to search in game traders.
 - **[Allaclone](https://retributioneq.com/allaclone/)** - Detailed database of game items and quests.
 - **[Character Mover](https://retributioneq.com/magelo/index.php?page=charmove)** - Useful if your character gets stuck somewhere in the world.
 ---
