@@ -65,8 +65,8 @@ As Retribution is a personal progression server, so will its first season be. Pl
 
 ## The time locking is as follows:
 
-- 2 week lock in Classic
-- 2 week lock in Kunark
+- 3 week lock in Classic
+- 3 week lock in Kunark
 - 4 week lock in Velious
 - 4 week lock in Luclin
 - 8 weeks in PoP before the season ends
