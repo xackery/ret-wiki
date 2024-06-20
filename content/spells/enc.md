@@ -22,6 +22,7 @@ description: Enchanter Spells.
 - Dictate now effects up to level 60 (usable at level 52)
 - Beckon now effects up to level 64 (usable at level 61)
 - Command of Druzzil now behave's like Dictate (-1000 resist modifier with a base duration of 2 minutes) and effects up to level 65 (usable at level 61)
+- Handing items to a charmed pet allows the pet to equip the item but hands it back to the player. When charm breaks, the equipped items are removed from the pet's equipment and can be re-equipped once re-charmed with the same items.
 
 ## Enchanter AAs are listed below, as well as a spell list and associated vendors.
 
