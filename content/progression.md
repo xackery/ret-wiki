@@ -16,9 +16,6 @@ Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Br
 {{<details title="Lady Vox">}}
 Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
 {{</details>}}
-{{<details title="Phinigel Autoropos">}}
-Found in Kedge Keep, Phinigel will require waterbreathing and strategies to overcome his seahorse guards and wizard spells.
-{{</details>}}
 
 
 ## Kunark Bosses to kill for Velious Unlock
